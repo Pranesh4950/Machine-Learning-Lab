@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ## Author
-Pranesh TT
+Pranesh TT <br>
 M.Tech CSE Student
 
 
