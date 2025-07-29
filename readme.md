@@ -15,7 +15,8 @@ This repository contains all the machine learning lab assignments completed as p
 
 Install with:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
+```
 
 ## Author
 Pranesh TT
