@@ -13,6 +13,19 @@ This repository contains all the machine learning lab assignments completed as p
 - matplotlib
 - seaborn
 
+### How to Run
+
+```bash
+# Step 1: Clone the repo
+git clone https://github.com/Pranesh4950/Machine-Learning-Lab/
+
+# Step 2: Navigate to the folder
+cd MACHINE_LEARNING_LAB
+
+# Step 3: Run Jupyter
+jupyter notebook
+
+
 Install with:
 ```bash
 pip install -r requirements.txt 
